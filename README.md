@@ -7,3 +7,7 @@ This app converts aes3 embedded ac3 audio to AC3 audio.
 
 This app converts aes3 to AC3.
 "num pkts to dump" parameter can be set to very high value to process entire file.
+
+Compilation
+============
+gcc -o aes3_to_ac3.out extract_ac3_from_aes3.c
